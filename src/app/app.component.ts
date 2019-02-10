@@ -32,11 +32,13 @@ export class AppComponent implements OnInit {
       url: '/app/tabs/home',
       icon: 'home'
     },
+    /*
     {
       title: 'Map',
       url: '/app/tabs/map',
       icon: 'map'
     },
+    */
     {
       title: 'Contact',
       url: '/app/tabs/about',
