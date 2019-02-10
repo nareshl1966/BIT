@@ -1,7 +1,7 @@
 {
-  "name": "prajwalan",
+  "name": "Ambito",
   "version": "0.0.0",
-  "description": "Official App of Prajwalan 19 - Central India's Biggest Technical Festival",
+  "description": "Ambito -Official App",
   "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nadeemb53/prajwalan19.git"
+    "url": "https://github.com/nareshl1966/BIT.git"
   },
   "private": true,
   "dependencies": {
