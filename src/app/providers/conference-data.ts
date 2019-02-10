@@ -19,8 +19,8 @@ export class ConferenceData {
     } else {
       return this.http
         //.get('https://nadeemb53.github.io/Prajwalan19/src/assets/data/data.json')
-        .get('https://nareshl1966.github.io/BIT/src/assets/data/data.json')
-        //.get('assets/data/data.json')
+       // .get('https://nareshl1966.github.io/BIT/src/assets/data/data.json')
+       .get('assets/data/data.json')
         .pipe(map(this.processData, this));
     }
   }
